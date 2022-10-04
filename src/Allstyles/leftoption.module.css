@@ -1,0 +1,22 @@
+.secondLeftDiv{
+   
+    width: 15%;
+    color: white;
+    background-color: #1f283b;
+     padding-bottom: 10px;
+}
+.optiondiv{
+    margin-left: 10px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    padding: 7px;
+}
+.optiondiv1{
+    background-color:#405b92;
+    margin-left: 10px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    padding: 7px;
+}

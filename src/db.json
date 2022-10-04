@@ -1,0 +1,101 @@
+{
+    "data":[
+        {
+            "image":"https://m.media-amazon.com/images/I/61RnYC1FGwL._SX522_.jpg",
+            "name":"CADBURY",
+             "detail":"Cadbury Bournville Cran...",
+             "striked": 110,
+             "price":100,
+             "stock":56
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/61Br6dM3+KL._SX522_PIbundle-12,TopRight,0,0_AA522SH20_.jpg",
+            "name":"BRU",
+             "detail":"Bru Instant Coffee",
+             "striked": 110,
+             "price":100,
+             "stock":"out of Stock"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/610DWu91cvL._SL1500_.jpg",
+            "name":"CATCH",
+             "detail":"Catch Kasuri Methi",
+             "striked": 110,
+             "price":100,
+             "stock":56
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71ky74ANONL._SY450_.jpg",
+            "name":"NESTLE",
+             "detail":"Nestle Ceralac Wheat Ap...",
+             "striked": 110,
+             "price":100,
+             "stock":5
+        },
+        {
+            "image":"https://5.imimg.com/data5/JM/CF/MY-8609988/pepsodent-toothpaste-500x500.jpg",
+            "name":"PEPSODENT",
+             "detail":"Pepsodent Germicheck T...",
+             "striked": 110,
+             "price":100,
+             "stock":56
+        },
+        {
+            "image":"https://5.imimg.com/data5/QN/QF/MY-8609988/surf-excel-500x500.jpg",
+            "name":"SURF EXCEL",
+             "detail":"Surf Excel Dtergent",
+             "striked": 110,
+             "price":100,
+             "stock":56
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71ky74ANONL._SY450_.jpg",
+            "name":"NESTLE",
+             "detail":"Nestle Ceralac Wheat Ap...",
+             "striked": 110,
+             "price":100,
+             "stock":5
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/61RnYC1FGwL._SX522_.jpg",
+            "name":"CADBURY",
+             "detail":"Cadbury Bournville",
+             "striked": 110,
+             "price":100,
+             "stock":56
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/61RnYC1FGwL._SX522_.jpg",
+            "name":"CADBURY",
+             "detail":"Cadbury Bournville",
+             "striked": 110,
+             "price":100,
+             "stock":56
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71ky74ANONL._SY450_.jpg",
+            "name":"NESTLE",
+             "detail":"Nestle Ceralac Wheat Ap...",
+             "striked": 110,
+             "price":100,
+             "stock":5
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71ky74ANONL._SY450_.jpg",
+            "name":"NESTLE",
+             "detail":"Nestle Ceralac Wheat Ap...",
+             "striked": 110,
+             "price":100,
+             "stock":5
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71ky74ANONL._SY450_.jpg",
+            "name":"NESTLE",
+             "detail":"Nestle Ceralac Wheat Ap...",
+             "striked": 110,
+             "price":100,
+             "stock":5
+        }
+
+    ]
+}
